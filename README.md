@@ -1,4 +1,4 @@
-1) # Automated Network Request Management – ServiceNow
+ # Automated Network Request Management – ServiceNow
 
 ##  Project Overview
 This project automates the process of network access requests using ServiceNow. 
@@ -30,7 +30,7 @@ approved, assigned, and tracked using Flow Designer and task automation.
 - Approval Engine
 - Task Management
 
-    2)# Metro Ticket Generating System – ServiceNow
+# Metro Ticket Generating System – ServiceNow
 
 ## Project Progress
 
